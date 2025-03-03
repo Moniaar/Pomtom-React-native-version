@@ -5,7 +5,6 @@ Official App of Pomodoro timer that combines both the power of AI and productivi
 
 ## Intresting problems along the way:
 1. Properties not the same when I test using other devices
-2. 
 
 
 
